@@ -9,4 +9,8 @@
 
 ## Usage
 
+<<<<<<< HEAD
+* press num + and num - zoom in and out
+=======
 * Press ctrl+right mouse button to zoom 
+>>>>>>> c317751fed8e20ac38ef4ad86f78eb0c1dabf290
